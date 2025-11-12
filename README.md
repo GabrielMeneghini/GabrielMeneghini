@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tools and Technologies
+## 🛠️ Other Tools and Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=spring,eclipse,idea,mysql,postgres,postman,git)
 
