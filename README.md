@@ -8,8 +8,6 @@
 
 📚 I am currently focusing on deepening my knowledge of Java, backend development, software engineering principles and Mandarin Chinese.
 
-💼 Entrepreneur focused on import and resale activities.
-
 ---
 
 ## 💻 Main Technology
